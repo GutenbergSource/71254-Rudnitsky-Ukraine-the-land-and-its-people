@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated on 2023-07-23T16:01:01Z. -->
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:xs="http://www.w3.org/2001/XMLSchema"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>Ukraine, the land and its people: an introduction to its geography</dc:title>
+      <dc:title>Ukraine</dc:title>
+      <dc:title>Коротка географія України</dc:title>
+      <dc:creator>Stephen Rudnitsky (1877–1937)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2023-07-22</dc:publisher>
+      <dc:date>2023-07-22</dc:date>
+      <dc:rights>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org.
+This eBook is produced by the Online Distributed Proofreading Team at www.pgdp.net.
+Scans of this book are available from the Internet Archive (copy 1, 2, 3, 4). 
+The maps mentioned in the table of contents are not available in any of these copies.
+Scans of the illustrated German edition, Ukraina, Land und Volk; eine gemeinfassliche Landeskunde, are also available (copy 1).
+
+New original cover art included with this eBook is granted to the public domain.
+</dc:rights>
+      <dc:subject>Ukrainians</dc:subject>
+      <dc:subject>Ukraine -- Description and travel</dc:subject>
+      <dc:identifier>pg:71254</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
